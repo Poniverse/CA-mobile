@@ -10,7 +10,7 @@ namespace CanterlotAvenue
             Label header = new Label
             {
                 Text = "Canterlot Avenue",
-                FontSize = 50,
+                FontSize = 12,
                 FontAttributes = FontAttributes.Bold,
                 HorizontalOptions = LayoutOptions.Center
             };
